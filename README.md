@@ -13,7 +13,8 @@ Here, you can find the training support, useful links and contact persons for ou
 
 ## Project Structure
 
-TODO
+initial_persona_arrk/persona_arrk - here is the project skeleton from session 1
+
 
 # Resources
 
